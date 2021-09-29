@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="naira_equiv">Naira equivalent: %s</string>
+</resources>
